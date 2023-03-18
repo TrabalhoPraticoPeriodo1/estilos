@@ -24,6 +24,22 @@
   color: white;
 }
 
+#smallIcon:hover{
+  filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);
+}
+
+.svg-color-green {
+  filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(49deg) brightness(103%) contrast(103%);
+}
+
+.svg-color-blue {
+  filter: invert(64%) sepia(83%) saturate(5458%) hue-rotate(165deg) brightness(99%) contrast(101%);
+}
+
+.svg-my-color {
+  filter: invert(86%) sepia(96%) saturate(2303%) hue-rotate(46deg) brightness(90%) contrast(113%);
+}
+
 .bi-icon{
   fill: #fff;
 }
